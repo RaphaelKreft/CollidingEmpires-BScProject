@@ -1,5 +1,14 @@
 # README
 
+Colliding Empires is a multiplayer online game, implemented in Java with JavaFX using a Client-Server
+Architecture. We used gradle as project management tool and Gitlab Actions as CI/CD pipeline.
+As a bonus we also added prometheus monitoring to the game server.
+
+Colliding Empires is a round-based strategy game. In the following you can read an extended
+game description and instructions in german. (This is because this Game has been implemented
+during the Lecture "Programming Project" at University Basel , that was given in German)
+
+
 <img alt="Logo" src="Projektunterlagen/Images/Logo.png" width="100px"> **Colliding Empires**
 
 [collidingempires.timbachmann.de](http://collidingempires.timbachmann.de)

@@ -8,6 +8,10 @@ Colliding Empires is a round-based strategy game. In the following you can read 
 game description and instructions in german. (This is because this Game has been implemented
 during the Lecture "Programming Project" at University Basel , that was given in German)
 
+I want to thank Tim Bachmann, Olivier Mattmann and Mathias Carballo for the awesome teamwork
+on this Project...
+
+--
 
 <img alt="Logo" src="Projektunterlagen/Images/Logo.png" width="100px"> **Colliding Empires**
 
